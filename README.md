@@ -15,13 +15,13 @@
 - **YouTube-ссылки**: В коде есть заглушки для видео (можно заменить на реальные ссылки)
 
 ## 🖼 Скриншоты
-![Главная страница](images/FullSizeRender.PNG)
+![Главная страница](images/FullSizeRender-_1_.png)
 ![Процесс квалификации](images/IMG_7640.PNG)
 ![Анкета пользователя](images/IMG_7641.PNG)
 ![Диалог с AI](images/IMG_7642.PNG)
 ![Реферальная ссылка](images/FullSizeRender-_1_.png)
 ![Возрастное ограничение](images/IMG_7634.PNG)
-![Анкета наставника](images/FullSizeRender.PNG)
+
 ## 📋 Функционал
 
 ### Основное меню
