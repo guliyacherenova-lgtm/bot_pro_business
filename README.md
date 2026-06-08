@@ -19,7 +19,7 @@
 ![Процесс квалификации](images/IMG_7640.PNG)
 ![Анкета пользователя](images/IMG_7641.PNG)
 ![Диалог с AI](images/IMG_7642.PNG)
-![Реферальная ссылка](images/FullSizeRender(1).PNG)
+![Реферальная ссылка](images/FullSizeRender-_1_.png)
 ![Возрастное ограничение](images/IMG_7634.PNG)
 ![Анкета наставника](images/FullSizeRender.PNG)
 ## 📋 Функционал
