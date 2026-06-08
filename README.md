@@ -16,7 +16,7 @@
 
 ## 🖼 Скриншоты
 
-![Главная страница](images/FullSizeRender-_1_.png)
+![Главная страница](images/FullSizeRender-_2_.png)
 ![Процесс квалификации](images/IMG_7640.PNG)
 ![Анкета пользователя](images/IMG_7641.PNG)
 ![Диалог с AI](images/IMG_7642.PNG)
